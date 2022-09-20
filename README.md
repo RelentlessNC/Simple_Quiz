@@ -2,9 +2,9 @@
 
 The task for this project was to create a timed online quiz that creates and displays content dynamically.  The quiz consists of 5 questions, each question has 4 choices.  When a question is answered incorrectly, time is reduced.  The quiz ends when the timer reaches 0 or all questions have been answered.  At the end of the quiz you may choose to input your initials, or not.  When you view high scores, you see all the scores for that session displayed in a table format.
 
-[my code repository](https://github.com/RelentlessNC/codingQuiz.git)
+[my code repository](https://github.com/RelentlessNC/Simple_Quiz.git)
 
-[my code's live URL](https://relentlessnc.github.io/codingQuiz/)
+[my code's live URL](https://relentlessnc.github.io/Simple_Quiz/)
 
 ![a screenshot of my project's home screen.](./assets/images/myscreenshot.png)
 
@@ -31,9 +31,3 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 ```
-
-## Mock-Up
-
-The following animation demonstrates the application functionality:
-
-![A GIF demonstrates a functioning quiz with a timer.](./assets/images/04-web-apis-homework-demo.gif).
